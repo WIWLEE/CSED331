@@ -1,2 +1,2 @@
-# CSED331-01-Algorithm
+# CSED331 Algorithm
 Postech CSED331-01 Algorithm Assignment
